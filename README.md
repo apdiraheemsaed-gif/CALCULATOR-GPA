@@ -1,2 +1,3 @@
 # CALCULATOR-GPA
-CALCUALTING GPA AMD GRADE
+Calculating gpa and grade
+
